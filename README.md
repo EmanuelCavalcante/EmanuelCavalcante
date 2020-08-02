@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EmanuelCavalcante&repo=scheduling-request-web" />
 </a>    
 <a href="https://github.com/EmanuelCavalcante/https://github.com/EmanuelCavalcante/Gerenciador-de-processos">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EmanuelCavalcante&repo=https://github.com/EmanuelCavalcante/Gerenciador-de-processos" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EmanuelCavalcante&repo=Gerenciador-de-processos" />
 </a>
 <br />
 <br />

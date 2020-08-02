@@ -19,10 +19,6 @@
 <a href="https://twitter.com/ejcavalcante" target="_blank">
 	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
 </a>
-
-<a href="https://medium.com/@felipedasilvabaltazar" target="_blank">
-	<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
-</a>
 </div>
 <br/>
 

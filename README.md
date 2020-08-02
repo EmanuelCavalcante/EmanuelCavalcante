@@ -1,16 +1,48 @@
-### Hi there 👋
+### Hi there, I'm [Emanuel Cavalcante!](https://twitter.com/ejcavalcante) 👋
 
-<!--
-**EmanuelCavalcante/EmanuelCavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<i>Você me encontra nas redes sociais:</i><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/emanuelcavalcante/" target="_blank">
+	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/emanueljcavalcante/" target="_blank">
+	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://www.facebook.com/emanuel.cavalcante.1420" target="_blank">
+	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+<a href="https://twitter.com/ejcavalcante" target="_blank">
+	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
+</a>
+
+<a href="https://medium.com/@felipedasilvabaltazar" target="_blank">
+	<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
+</a>
+</div>
+<br/>
+
+<a href="https://github.com/EmanuelCavalcante/https://github.com/EmanuelCavalcante/Gerenciador-de-processos">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EmanuelCavalcante" />
+</a>
+<a href="https://github.com/EmanuelCavalcante/https://github.com/EmanuelCavalcante/Gerenciador-de-processos">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EmanuelCavalcante&show_icons=true&line_height=27" alt="Felipe's github stats" />
+</a>
+
+<a href="https://github.com/EmanuelCavalcante/scheduling-request-web">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EmanuelCavalcante&repo=scheduling-request-web" />
+</a>    
+<a href="https://github.com/EmanuelCavalcante/https://github.com/EmanuelCavalcante/Gerenciador-de-processos">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EmanuelCavalcante&repo=https://github.com/EmanuelCavalcante/Gerenciador-de-processos" />
+</a>
+<br />
+<br />
+<div align="center">
+
+[![HitCount](http://hits.dwyl.com/EmanuelCavalcante/scheduling-request-web.svg)](http://hits.dwyl.com/EmanuelCavalcante/scheduling-request-web)
+
+</div>

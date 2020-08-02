@@ -22,10 +22,10 @@
 </div>
 <br/>
 
-<a href="https://github.com/EmanuelCavalcante/https://github.com/EmanuelCavalcante/Gerenciador-de-processos">
+<a href="https://github.com/EmanuelCavalcante/Gerenciador-de-processos">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EmanuelCavalcante" />
 </a>
-<a href="https://github.com/EmanuelCavalcante/https://github.com/EmanuelCavalcante/Gerenciador-de-processos">
+<a href="https://github.com/EmanuelCavalcante/Gerenciador-de-processos">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EmanuelCavalcante&show_icons=true&line_height=27" alt="Felipe's github stats" />
 </a>
 
